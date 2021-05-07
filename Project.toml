@@ -3,6 +3,11 @@ uuid = "32a94b5d-0abe-422b-9604-1c4183f421a4"
 authors = ["David A. Dahlbom <david.dahlbom@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+DelayNetTools = "93871cbd-c3a7-4cb2-995f-072fee371c41"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+
 [compat]
 julia = "1"
 
